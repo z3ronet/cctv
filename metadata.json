@@ -1,0 +1,6 @@
+{
+  "name": "Hushyar - Smart School Security & Attendance",
+  "description": "سامانه هوشمند مدیریت، امنیت و تردد مدارس مبتنی بر هوش مصنوعی و بینایی ماشین (Hushyar - AI-powered School Security & Attendance)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
